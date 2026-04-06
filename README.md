@@ -14,6 +14,6 @@ I developed this Python tool to automate the **Quality Assurance (QA)** process.
 * **Image Processing:** Uses `Pillow (PIL)` to handle diverse image formats (WebP, PNG, JPG) and standardize them for report embedding.
 * **Automated Caching:** Implements a temporary download cache to optimize performance and reduce redundant network requests.
 
-## 📈 Impact
+## Impact
 * **Accuracy:** Eliminated human error in visually identifying mismatched SKUs.
 * **Speed:** Reduced the auditing time for a 1,000-item inventory from days to minutes.
